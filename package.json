@@ -1,0 +1,26 @@
+{
+  "name": "base-de-dato",
+  "version": "1.0.0",
+  "description": "prueba de base de dato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandanfabricio/base-de-dato.git"
+  },
+  "author": "fabricio brandan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandanfabricio/base-de-dato/issues"
+  },
+  "homepage": "https://github.com/brandanfabricio/base-de-dato#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cherio": "^1.0.0-rc.2",
+    "dotenv": "^10.0.0",
+    "mogoose": "^0.0.1-security",
+    "node-cron": "^3.0.0"
+  }
+}
